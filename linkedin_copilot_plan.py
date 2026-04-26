@@ -1,3 +1,4 @@
+
 """
 LinkedIn Copilot Extension - Implementation Plan
 

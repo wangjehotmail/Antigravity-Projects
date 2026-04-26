@@ -1,0 +1,154 @@
+/* content.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+#linkedin-copilot-panel {
+  position: fixed;
+  top: 0;
+  right: -350px;
+  width: 350px;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: -4px 0 30px rgba(0, 0, 0, 0.1);
+  z-index: 999999;
+  transition: right 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  font-family: 'Inter', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  color: #1a1a1a;
+}
+
+#linkedin-copilot-panel.dark-mode {
+  background: rgba(30, 30, 30, 0.4);
+  border-left: 1px solid rgba(255, 255, 255, 0.05);
+  color: #fff;
+}
+
+#linkedin-copilot-panel.open {
+  right: 0;
+}
+
+#linkedin-copilot-toggle {
+  position: absolute;
+  top: 50%;
+  left: -48px;
+  width: 48px;
+  height: 48px;
+  background: rgba(10, 102, 194, 0.85); /* LinkedIn blue */
+  backdrop-filter: blur(8px);
+  color: white;
+  border-radius: 8px 0 0 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: -4px 0 15px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  font-size: 24px;
+  transition: background 0.3s, width 0.2s, left 0.2s;
+}
+
+#linkedin-copilot-toggle:hover {
+  background: rgba(10, 102, 194, 1);
+  width: 54px;
+  left: -54px;
+}
+
+.copilot-header {
+  padding: 24px;
+  background: rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: -0.02em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.copilot-body {
+  padding: 24px;
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.copilot-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.copilot-btn {
+  background: linear-gradient(135deg, #0a66c2, #004182);
+  border: none;
+  border-radius: 8px;
+  padding: 14px 16px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 15px rgba(10, 102, 194, 0.3);
+  font-size: 1rem;
+}
+
+.copilot-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(10, 102, 194, 0.4);
+}
+
+.copilot-btn.secondary {
+  background: white;
+  color: #0a66c2;
+  border: 1px solid #0a66c2;
+  box-shadow: 0 2px 10px rgba(10, 102, 194, 0.1);
+}
+
+.copilot-btn.secondary:hover {
+  background: #f3f2ef;
+}
+
+.summary-card {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+  animation: fadeIn 0.4s ease-out;
+}
+
+.summary-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #0a66c2;
+  font-size: 1rem;
+}
+
+.summary-content {
+  color: #4a4a4a;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Scrollbar styling */
+.copilot-body::-webkit-scrollbar {
+  width: 6px;
+}
+
+.copilot-body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.copilot-body::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}

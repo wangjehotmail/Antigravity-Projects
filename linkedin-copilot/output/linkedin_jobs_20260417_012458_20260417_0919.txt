@@ -1,0 +1,41 @@
+Company	Title	Max Comp	Link
+Tenstorrent	"Staff Engineer, Physical Design"	"$500,000 "	https://www.linkedin.com/jobs/view/4240711826
+OpenAI	RTL & Codesign Engineer	"$445,000 "	https://www.linkedin.com/jobs/view/4341892877
+Tesla	"Design Verification Engineer, AI Hardware"	"$432,000 "	https://www.linkedin.com/jobs/view/4298141636
+NVIDIA	Principal DRAM Architect – GPU Memory Solutions	"$431,250 "	https://www.linkedin.com/jobs/view/4395473448
+Tesla	"Sr. ASIC RTL Design Engineer, AI Hardware"	"$414,000 "	https://www.linkedin.com/jobs/view/4332408059
+NVIDIA	Principal Digital Design Engineer	"$368,000 "	https://www.linkedin.com/jobs/view/4395484499
+Hewlett Packard Enterprise	Principal VLSI Engineer	"$352,500 "	https://www.linkedin.com/jobs/view/4386301229
+Samsung Semiconductor	"Principal Engineer, RTL Power Macromodeling"	"$351,000 "	https://www.linkedin.com/jobs/view/4361973322
+Samsung Semiconductor	"Principal engineer, AI Serving Framework Architect (Software)"	"$351,000 "	https://www.linkedin.com/jobs/view/4370619333
+Cadence	"Application Engineer, RTL2GDS Architect"	"$348,400 "	https://www.linkedin.com/jobs/view/4379612335
+Amazon Web Services (AWS)	"SoC Modeling & Simulation Sr. Manager, Annapurna Labs Machine Learning Accelerators, AWS"	"$342,300 "	https://www.linkedin.com/jobs/view/4359423835
+Marvell Technology	Senior Distinguished Engineer	"$336,000 "	https://www.linkedin.com/jobs/view/4350237943
+Google	"Senior Staff Architect, Digital Signal Processing"	"$334,000 "	https://www.linkedin.com/jobs/view/4393039489
+"KIOXIA America, Inc."	Principal Industry Standards Engineer - 2236	"$323,780 "	https://www.linkedin.com/jobs/view/4379898096
+Pure Storage	PCIe Validation Architect (SSD)	"$317,000 "	https://www.linkedin.com/jobs/view/4356005864
+Marvell Technology	"Distinguished Engineer, Verification"	"$314,300 "	https://www.linkedin.com/jobs/view/4374248445
+Marvell Technology	"Distinguished Engineer - Memory Subsystem Center of Excellence (CoE), Custom Silicon"	"$314,300 "	https://www.linkedin.com/jobs/view/4397800766
+Tesla	"ASIC RTL Design Engineer, AI Hardware"	"$312,000 "	https://www.linkedin.com/jobs/view/4337214652
+Tesla	"Sr. Design Verification Engineer, AI Hardware"	"$312,000 "	https://www.linkedin.com/jobs/view/4380163563
+Intel	CPU Formal Verification Engineer	"$311,890 "	https://www.linkedin.com/jobs/view/4394487265
+Intel	SOC Design Engineer	"$311,890 "	https://www.linkedin.com/jobs/view/4399685537
+Intel	SOC Design Verification Engineer	"$311,890 "	https://www.linkedin.com/jobs/view/4402300015
+NVIDIA	Senior FPGA Prototyping Engineer - Hardware	"$310,500 "	https://www.linkedin.com/jobs/view/4395468665
+NVIDIA	Senior Mixed Signal Design Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395468669
+NVIDIA	Senior Networking PCIe Application Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395469604
+NVIDIA	Senior ASIC Design Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395476308
+NVIDIA	Senior Mixed Signal Design Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395479514
+NVIDIA	Mixed Signal Design Validation Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395483284
+NVIDIA	Senior Mixed Signal Design Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395483307
+NVIDIA	Senior Mixed Signal Design Validation Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395487138
+NVIDIA	Senior ASIC Timing Engineer	"$310,500 "	https://www.linkedin.com/jobs/view/4395489414
+NVIDIA	Senior ASIC Design Engineer - LPU	"$310,500 "	https://www.linkedin.com/jobs/view/4395490402
+Intuitive	Staff FPGA Engineer	"$306,600 "	https://www.linkedin.com/jobs/view/4371204727
+Marvell Technology	"Distinguished Engineer, Switch Architect"	"$305,500 "	https://www.linkedin.com/jobs/view/4354292143
+Cisco	ASIC Engineering Technical Leader- DFT	"$305,100 "	https://www.linkedin.com/jobs/view/4384372377
+MediaTek	Principal Memory Design Engineer/Senior Technical Manager	"$301,000 "	https://www.linkedin.com/jobs/view/4369865879
+Ethernovia	Senior ASIC Design Verification Engineer	"$300,000 "	https://www.linkedin.com/jobs/view/4136517266
+Ethernovia	Senior ASIC (Front-End) Design Engineer	"$300,000 "	https://www.linkedin.com/jobs/view/4136519052
+			
+			

@@ -1,0 +1,61 @@
+{
+    "jobTarget": "Array Labs - Senior Power Electronics Engineer",
+    "debugExtractionInfo": {
+        "parseSteps": [
+            {
+                "tier": 1,
+                "elementText": "Redwood City, CA \u00b7 Reposted 2 weeks ago \u00b7 32 applicants\n\nPromoted by hirer \u00b7 Actively reviewing applicants",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            },
+            {
+                "tier": 2,
+                "matchedContextLine": "Strong background in power integrity, transient response, stability/compensation, and low-noise rail design for mixed-signal and RF systems",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            },
+            {
+                "tier": 2,
+                "matchedContextLine": "Hiring and Compensation Strategy",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            },
+            {
+                "tier": 2,
+                "matchedContextLine": "Our hiring and compensation strategy is simple:",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            },
+            {
+                "tier": 2,
+                "matchedContextLine": "2) pay them uncommonly well ",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            },
+            {
+                "tier": 2,
+                "matchedContextLine": "You can anticipate competitive pay, with high flexibility between salary and equity-based compensation.",
+                "regexResult": {
+                    "val": 0,
+                    "str": "",
+                    "debugMatchContext": "No matches"
+                }
+            }
+        ]
+    }
+}

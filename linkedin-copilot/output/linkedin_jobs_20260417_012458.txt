@@ -1,0 +1,93 @@
+Company,Title,Max Comp,Link
+Amazon Web Services (AWS),"SoC Modeling & Simulation Sr. Manager, Annapurna Labs Machine Learning Accelerators, AWS","342,300.00 USD",https://www.linkedin.com/jobs/view/4359423835
+NVIDIA,Senior ASIC Timing Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395489414
+Pure Storage,PCIe Validation Architect (SSD),"$317,000 USD",https://www.linkedin.com/jobs/view/4356005864
+NVIDIA,Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395483284
+Ethernovia,Senior ASIC (Front-End) Design Engineer,"$300,000",https://www.linkedin.com/jobs/view/4136519052
+Cadence,"Application Engineer, RTL2GDS Architect","$348,400",https://www.linkedin.com/jobs/view/4379612335
+Marvell Technology,Senior Distinguished Engineer,"336,000",https://www.linkedin.com/jobs/view/4350237943
+MediaTek,Principal Memory Design Engineer/Senior Technical Manager,"$301,000",https://www.linkedin.com/jobs/view/4369865879
+Marvell Technology,"Distinguished Engineer, Switch Architect","305,500",https://www.linkedin.com/jobs/view/4354292143
+Tesla,"Sr. ASIC RTL Design Engineer, AI Hardware","$414,000",https://www.linkedin.com/jobs/view/4332408059
+NVIDIA,Senior Networking PCIe Application Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395469604
+Tesla,"ASIC RTL Design Engineer, AI Hardware","$312,000",https://www.linkedin.com/jobs/view/4337214652
+Samsung Semiconductor,"Principal engineer, AI Serving Framework Architect (Software)","$351,000 USD",https://www.linkedin.com/jobs/view/4370619333
+Ethernovia,Senior ASIC Design Verification Engineer,"$300,000",https://www.linkedin.com/jobs/view/4136517266
+"KIOXIA America, Inc.",Principal Industry Standards Engineer - 2236,"323,780.00",https://www.linkedin.com/jobs/view/4379898096
+"KIOXIA America, Inc.",Principal Industry Standards Engineer - 2236,"323,780.00",https://www.linkedin.com/jobs/view/4379898096
+NVIDIA,Senior ASIC Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395476308
+Marvell Technology,"Distinguished Engineer - Memory Subsystem Center of Excellence (CoE), Custom Silicon","314,300",https://www.linkedin.com/jobs/view/4397800766
+Tesla,"Design Verification Engineer, AI Hardware","$432,000",https://www.linkedin.com/jobs/view/4298141636
+Intuitive,Staff FPGA Engineer,"$306,600",https://www.linkedin.com/jobs/view/4371204727
+Hewlett Packard Enterprise,Principal VLSI Engineer,"352,500",https://www.linkedin.com/jobs/view/4386301229
+NVIDIA,Senior Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395487138
+OpenAI,RTL & Codesign Engineer,$445K,https://www.linkedin.com/jobs/view/4341892877
+Samsung Semiconductor,"Principal Engineer, RTL Power Macromodeling","$351,000 USD",https://www.linkedin.com/jobs/view/4361973322
+Google,"Senior Staff Architect, Digital Signal Processing","$334,000",https://www.linkedin.com/jobs/view/4393039489
+NVIDIA,Senior FPGA Prototyping Engineer - Hardware,"310,500 USD",https://www.linkedin.com/jobs/view/4395468665
+Tesla,"Sr. Design Verification Engineer, AI Hardware","$312,000",https://www.linkedin.com/jobs/view/4380163563
+Intel,CPU Formal Verification Engineer,"311,890.00 USD",https://www.linkedin.com/jobs/view/4394487265
+NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479514
+NVIDIA,Principal Digital Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4395484499
+NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395483307
+NVIDIA,Senior ASIC Design Engineer - LPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395490402
+Cisco,ASIC Engineering Technical Leader- DFT,"$305,100.00",https://www.linkedin.com/jobs/view/4384372377
+NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395468669
+Marvell Technology,"Distinguished Engineer, Verification","314,300",https://www.linkedin.com/jobs/view/4374248445
+Intel,SOC Design Verification Engineer,"311,890.00 USD",https://www.linkedin.com/jobs/view/4402300015
+Tenstorrent,"Staff Engineer, Physical Design",$500k,https://www.linkedin.com/jobs/view/4240711826
+Tenstorrent,"Staff Engineer, Physical Design",$500k,https://www.linkedin.com/jobs/view/4240711826
+NVIDIA,Principal DRAM Architect – GPU Memory Solutions,"431,250 USD",https://www.linkedin.com/jobs/view/4395473448
+Intel,SOC Design Engineer,"311,890.00 USD",https://www.linkedin.com/jobs/view/4399685537
+Ethernovia,Senior ASIC (Front-End) Design Engineer,"$300,000",https://www.linkedin.com/jobs/view/4136519052
+Ethernovia,Senior ASIC Design Verification Engineer,"$300,000",https://www.linkedin.com/jobs/view/4136517266
+Neuralink,"Firmware Engineer, Robotics and Surgery Engineering","$300,000 USD",https://www.linkedin.com/jobs/view/4097041248
+Xpertalent,Principal Staff Software Engineer,$300K,https://www.linkedin.com/jobs/view/4402285208
+"X, The Moonshot Factory","Rapid Evaluator - AI/ML, X","$328,000",https://www.linkedin.com/jobs/view/4265080761
+Giga,Staff Backend Engineer,$500k,https://www.linkedin.com/jobs/view/4352268909
+Ethernovia,Senior ASIC Design Verification Engineer,"$300,000",https://www.linkedin.com/jobs/view/4136516412
+NexTech Capital,Post-Silicon Validation Engineer,$300k,https://www.linkedin.com/jobs/view/4394949353
+Stealth AI Infrastructure Startup,Founding Engineer,"$300,000",https://www.linkedin.com/jobs/view/4403574501
+Everlaw,"Director of Engineering, Platform Engineering","$305,000.00",https://www.linkedin.com/jobs/view/4149297903
+Applied Intuition,Staff Software Engineer,"$323,000 USD",https://www.linkedin.com/jobs/view/3887541139
+Tenstorrent,"Developer Relations Engineer, Advocacy",$500k,https://www.linkedin.com/jobs/view/4254199224
+Collinear AI,Engineering Leader,"$400,000 per year",https://www.linkedin.com/jobs/view/4395174280
+Skild AI,"Software Engineer, AI Training and Infrastructure","$300,000 USD",https://www.linkedin.com/jobs/view/4043208298
+Focus GTS,Vice President of Software Engineering,$450K,https://www.linkedin.com/jobs/view/4392404902
+Tenstorrent,"Staff Engineer, Physical Design",$500k,https://www.linkedin.com/jobs/view/4240711826
+Ampere,Lead Analog and Mixed-Signal Design Engineer,"$356,000",https://www.linkedin.com/jobs/view/4271168622
+Tenstorrent,Physical Design Engineer - STA,$500k,https://www.linkedin.com/jobs/view/4263783346
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
