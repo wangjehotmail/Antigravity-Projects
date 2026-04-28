@@ -91,3 +91,28 @@ Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,
 Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
 Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
 Applied Intuition,"Research Scientist - Reinforcement Learning, Robotics","$423,000 USD",https://www.linkedin.com/jobs/view/4025853693
+OpenAI,SOC Architect,Not Found (or not listed),https://www.linkedin.com/jobs/view/4402835175
+OpenAI,"Software Engineer, ChatGPT Infrastructure",$405K,https://www.linkedin.com/jobs/view/4374510474
+OpenAI,"Fullstack Engineer, Intelligence Systems",$325K,https://www.linkedin.com/jobs/view/4340442217
+OpenAI,"Product Manager, Self-Serve Business Growth Lead",$385K,https://www.linkedin.com/jobs/view/4405596036
+OpenAI,"Engineering Manager, Online Data Systems",Not Found (or not listed),https://www.linkedin.com/jobs/view/4383188032
+OpenAI,"Backend Software Engineer, ChatGPT Engineering",$385K,https://www.linkedin.com/jobs/view/4357593737
+OpenAI,"Solutions Engineer, Private Equity",Not Found (or not listed),https://www.linkedin.com/jobs/view/4359820369
+OpenAI,Enterprise Security Engineer,Not Found (or not listed),https://www.linkedin.com/jobs/view/4226006335
+OpenAI,"Product Designer, Growth",$295K,https://www.linkedin.com/jobs/view/4313814360
+OpenAI,"Software Engineer, Full Stack, Integrity Foundations",Not Found (or not listed),https://www.linkedin.com/jobs/view/4399797961
+OpenAI,"Software Engineer, Frontier Clusters Infrastructure",$490K,https://www.linkedin.com/jobs/view/4313860038
+OpenAI,Physical Design Engineer,$445K,https://www.linkedin.com/jobs/view/4348581403
+OpenAI,"Software Engineer, Database Systems",$385K,https://www.linkedin.com/jobs/view/4268364964
+OpenAI,"Software Engineer, Agent Infrastructure",$385K,https://www.linkedin.com/jobs/view/4315672441
+OpenAI,Reliability/DFX Engineer,$445K,https://www.linkedin.com/jobs/view/4313821172
+OpenAI,IT Solutions Engineer,$285K,https://www.linkedin.com/jobs/view/4380218456
+OpenAI,"Software Engineer, Data Acquisition",$385K,https://www.linkedin.com/jobs/view/4313836844
+OpenAI,"Software Engineer, Core Services",$385K,https://www.linkedin.com/jobs/view/4313863031
+OpenAI,"Engineering Manager, Order Systems",Not Found (or not listed),https://www.linkedin.com/jobs/view/4359846444
+OpenAI,Product Manufacturing Engineer,$285K,https://www.linkedin.com/jobs/view/4373402616
+OpenAI,Executive IT Support Lead,Not Found (or not listed),https://www.linkedin.com/jobs/view/4388886340
+OpenAI,"Software Engineer, Scaled Abuse",Not Found (or not listed),https://www.linkedin.com/jobs/view/4397973812
+OpenAI,"Industrial Builds, Senior Project Manager, Design and Construction",$225K,https://www.linkedin.com/jobs/view/4383060398
+OpenAI,"Engineering Manager, Identity Infrastructure",$385K,https://www.linkedin.com/jobs/view/4356421690
+OpenAI,Recruiting Infrastructure Manager,$295K,https://www.linkedin.com/jobs/view/4381796280
