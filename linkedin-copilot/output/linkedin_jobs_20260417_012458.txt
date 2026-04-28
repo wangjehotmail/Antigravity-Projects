@@ -183,3 +183,5 @@ NVIDIA,Principal Technical Product Manager - Autonomous Vehicles,"379,500 USD",h
 NVIDIA,"AI Automation Engineer, Security","310,500 USD",https://www.linkedin.com/jobs/view/4406249233
 NVIDIA,"Senior Firmware Engineer, Networking","356,500 USD",https://www.linkedin.com/jobs/view/4406240405
 NVIDIA,Principal Power and Performance Architect,"368,000 USD",https://www.linkedin.com/jobs/view/4395477274
+NVIDIA,"Senior Manager, PR - AI Industries","310,500 USD",https://www.linkedin.com/jobs/view/4406257077
+NVIDIA,Senior Technical Program Manager - Robotics,"322,000 USD",https://www.linkedin.com/jobs/view/4395474442
