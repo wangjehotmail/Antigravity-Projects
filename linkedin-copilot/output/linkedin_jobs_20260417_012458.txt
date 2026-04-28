@@ -194,3 +194,6 @@ NVIDIA,"AI Automation Engineer, Security","310,500 USD",https://www.linkedin.com
 NVIDIA,Senior Systems Prototyping Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395485268
 NVIDIA,Senior Technical Program Manager – LPU Silicon,"322,000 USD",https://www.linkedin.com/jobs/view/4401141214
 NVIDIA,Senior Silicon and System Product Lead,"310,500 USD",https://www.linkedin.com/jobs/view/4395472413
+NVIDIA,Senior Storage Infrastructure Software Engineer,"356,500 USD",https://www.linkedin.com/jobs/view/4395491319
+NVIDIA,Principal System Software Engineer - Data Center MODS,"431,250 USD",https://www.linkedin.com/jobs/view/4395473674
+NVIDIA,Senior System Design Engineer,"322,000 USD",https://www.linkedin.com/jobs/view/4395476323
