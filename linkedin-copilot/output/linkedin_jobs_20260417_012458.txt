@@ -165,3 +165,8 @@ NVIDIA,Senior Deep Learning Performance Architect,"356,500 USD",https://www.link
 NVIDIA,"Senior Software Engineer, Hardware Tools and Methodology Development","264,500 USD",https://www.linkedin.com/jobs/view/4395470563
 NVIDIA,Principal Digital Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4395484499
 NVIDIA,Senior Deep Learning Performance Architect,"356,500 USD",https://www.linkedin.com/jobs/view/4395481506
+NVIDIA,Senior Systems Software Engineer - GPU Performance at Scale,"356,500 USD",https://www.linkedin.com/jobs/view/4395471725
+NVIDIA,Senior PDK Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395487181
+NVIDIA,Principal Software Engineer – Large-Scale LLM Memory and Storage Systems,"431,250 USD",https://www.linkedin.com/jobs/view/4395491334
+NVIDIA,Senior ASIC Design Verification Engineer - LPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395489432
+NVIDIA,Technical Product Lead - Autonomous vehicles,"327,750 USD",https://www.linkedin.com/jobs/view/4395482317
