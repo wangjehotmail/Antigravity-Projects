@@ -157,3 +157,9 @@ OpenAI,"Datacenter Hardware Operations Technician, AI Compute Infrastructure - S
 OpenAI,"Software Engineer, Scaled Abuse",Not Found (or not listed),https://www.linkedin.com/jobs/view/4397973812
 OpenAI,"Solutions Engineer, Financial Services",Not Found (or not listed),https://www.linkedin.com/jobs/view/4359850357
 HCLTech,Senior Hardware Design Engineer - High Speed Board Design,Not Found (or not listed),https://www.linkedin.com/jobs/view/4400591410
+NVIDIA,AI Hardware Architect,"287,500 USD",https://www.linkedin.com/jobs/view/4395478544
+NVIDIA,Senior ASIC Infrastructure Engineer,"287,500 USD",https://www.linkedin.com/jobs/view/4395481291
+NVIDIA,Senior Circuit Design Engineer,"264,500 USD",https://www.linkedin.com/jobs/view/4395478349
+NVIDIA,Principal Digital Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4395484499
+NVIDIA,Senior Deep Learning Performance Architect,"356,500 USD",https://www.linkedin.com/jobs/view/4395481506
+NVIDIA,"Senior Software Engineer, Hardware Tools and Methodology Development","264,500 USD",https://www.linkedin.com/jobs/view/4395470563
