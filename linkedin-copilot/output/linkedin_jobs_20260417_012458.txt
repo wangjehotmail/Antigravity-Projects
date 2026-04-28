@@ -217,3 +217,7 @@ NVIDIA,"Senior Physical Design Methodology Engineer, Innovus Flows","310,500 USD
 NVIDIA,"Senior Manager, System Co-Design Manager - SCG Team","368,000 USD",https://www.linkedin.com/jobs/view/4395481283
 NVIDIA,Senior Formal Verification Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479522
 NVIDIA,Senior Applied Power Architect - GPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395484521
+NVIDIA,Lead Safety Architect - Autonomous Vehicles,"356,500 USD",https://www.linkedin.com/jobs/view/4400025779
+NVIDIA,Senior DFX Infrastructure Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4405711342
+NVIDIA,Principal Software Engineering Lead — Enterprise Data Platforms,"391,000 USD",https://www.linkedin.com/jobs/view/4404477802
+NVIDIA,Senior Embedded System Software Engineer - Hypervisor and RTOS,"356,500 USD",https://www.linkedin.com/jobs/view/4395491320
