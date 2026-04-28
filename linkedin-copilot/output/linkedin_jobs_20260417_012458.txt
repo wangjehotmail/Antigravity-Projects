@@ -201,3 +201,4 @@ NVIDIA,Senior Solutions Architect - Cluster Design and Architecture,"356,500 USD
 NVIDIA,Senior Technical Program Manager – VLSI,"322,000 USD",https://www.linkedin.com/jobs/view/4395477356
 NVIDIA,Global Commodity Manager – Optics,"322,000 USD",https://www.linkedin.com/jobs/view/4395479249
 NVIDIA,Senior Architecture Energy Modeling Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4398180851
+NVIDIA,Senior Robotics Systems Software Engineer - ROS,"356,500 USD",https://www.linkedin.com/jobs/view/4395478232
