@@ -185,3 +185,8 @@ NVIDIA,"Senior Firmware Engineer, Networking","356,500 USD",https://www.linkedin
 NVIDIA,Principal Power and Performance Architect,"368,000 USD",https://www.linkedin.com/jobs/view/4395477274
 NVIDIA,"Senior Manager, PR - AI Industries","310,500 USD",https://www.linkedin.com/jobs/view/4406257077
 NVIDIA,Senior Technical Program Manager - Robotics,"322,000 USD",https://www.linkedin.com/jobs/view/4395474442
+NVIDIA,"Senior Architect, GPU Profiling System","356,500 USD",https://www.linkedin.com/jobs/view/4395482288
+NVIDIA,"Technical Program Manager, AI Factory Infrastructure","322,000 USD",https://www.linkedin.com/jobs/view/4406236806
+NVIDIA,Principal Cloud Services Software Engineer,"431,250 USD",https://www.linkedin.com/jobs/view/4406246262
+NVIDIA,Senior Post Silicon Feature Development Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395490107
+NVIDIA,Senior CPU Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395482287
