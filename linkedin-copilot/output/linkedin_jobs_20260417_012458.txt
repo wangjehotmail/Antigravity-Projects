@@ -227,3 +227,4 @@ NVIDIA,"Principal Architect, AI Networking","431,250 USD",https://www.linkedin.c
 NVIDIA,Senior Silicon Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395468675
 NVIDIA,"Manager, Networking Software Test","431,250 USD",https://www.linkedin.com/jobs/view/4406251177
 NVIDIA,Senior ASIC RTL Integration and Netlisting Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395480472
+NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479514
