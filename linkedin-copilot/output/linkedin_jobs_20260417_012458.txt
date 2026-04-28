@@ -216,3 +216,4 @@ NVIDIA,Global Business Development Manager - Software,"356,500 USD",https://www.
 NVIDIA,"Senior Physical Design Methodology Engineer, Innovus Flows","310,500 USD",https://www.linkedin.com/jobs/view/4395473624
 NVIDIA,"Senior Manager, System Co-Design Manager - SCG Team","368,000 USD",https://www.linkedin.com/jobs/view/4395481283
 NVIDIA,Senior Formal Verification Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479522
+NVIDIA,Senior Applied Power Architect - GPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395484521
