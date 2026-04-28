@@ -205,3 +205,4 @@ NVIDIA,Senior Robotics Systems Software Engineer - ROS,"356,500 USD",https://www
 NVIDIA,Senior IO Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395472515
 NVIDIA,Distinguished Engineer - Dynamo,"488,750 USD",https://www.linkedin.com/jobs/view/4395485483
 NVIDIA,Senior System Verification Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395478258
+NVIDIA,Senior Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395487138
