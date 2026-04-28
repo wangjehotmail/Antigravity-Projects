@@ -116,3 +116,22 @@ OpenAI,"Software Engineer, Scaled Abuse",Not Found (or not listed),https://www.l
 OpenAI,"Industrial Builds, Senior Project Manager, Design and Construction",$225K,https://www.linkedin.com/jobs/view/4383060398
 OpenAI,"Engineering Manager, Identity Infrastructure",$385K,https://www.linkedin.com/jobs/view/4356421690
 OpenAI,Recruiting Infrastructure Manager,$295K,https://www.linkedin.com/jobs/view/4381796280
+OpenAI,"Manager, AI Success Engineers - San Francisco",Not Found (or not listed),https://www.linkedin.com/jobs/view/4372641573
+OpenAI,Token-as-a-Service Technical Program Manager,$555K,https://www.linkedin.com/jobs/view/4402409406
+OpenAI,Solutions Engineer- Startups,$280K,https://www.linkedin.com/jobs/view/4319499798
+OpenAI,"Engineering Manager, ChatGPT Premium",$385K,https://www.linkedin.com/jobs/view/4385499064
+OpenAI,"Product Designer, Monetization Platform",$295K,https://www.linkedin.com/jobs/view/4378533561
+OpenAI,"Solutions Engineer, Core Digital Native",Not Found (or not listed),https://www.linkedin.com/jobs/view/4359590488
+OpenAI,Forward Deployed Engineer (FDE) - SF,$280K,https://www.linkedin.com/jobs/view/4278857720
+OpenAI,"Senior Staff Product Engineer, Frontend - B2B Applications",$385K,https://www.linkedin.com/jobs/view/4344956897
+OpenAI,"Lead Product Designer, Health AI",Not Found (or not listed),https://www.linkedin.com/jobs/view/4356567848
+OpenAI,RTL & Co-design Engineer (junior),$445K,https://www.linkedin.com/jobs/view/4355246581
+OpenAI,Networking Operating System Firmware Engineer,$445K,https://www.linkedin.com/jobs/view/4338090423
+OpenAI,"Software Engineer, Data Infrastructure - Research",$380K,https://www.linkedin.com/jobs/view/4313854204
+OpenAI,"Engineering Manager, Multimodal (API)",Not Found (or not listed),https://www.linkedin.com/jobs/view/4401643939
+OpenAI,"Distributed Training Engineer, Sora",$490K,https://www.linkedin.com/jobs/view/4313851220
+OpenAI,"Software Engineer, Infrastructure, Consumer Devices",$440K,https://www.linkedin.com/jobs/view/4401491258
+OpenAI,"Software Engineer, Financial Engineering",$385K,https://www.linkedin.com/jobs/view/4313863030
+OpenAI,Hardware Tools Engineer,$445K,https://www.linkedin.com/jobs/view/4378102592
+OpenAI,"Engineering Manager, Core Services",Not Found (or not listed),https://www.linkedin.com/jobs/view/4357450970
+OpenAI,"Product Engineer, GTM Innovation",$385K,https://www.linkedin.com/jobs/view/4313821171
