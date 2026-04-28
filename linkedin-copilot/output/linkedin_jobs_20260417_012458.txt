@@ -211,3 +211,4 @@ NVIDIA,Senior Physical Design Engineer,"310,500 USD",https://www.linkedin.com/jo
 NVIDIA,Lead ATE Test Development Engineer - LPU,"368,000 USD",https://www.linkedin.com/jobs/view/4395483210
 NVIDIA,"Senior Solutions Architect, Generative AI","356,500 USD",https://www.linkedin.com/jobs/view/4406250205
 NVIDIA,Hardware Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395482220
+NVIDIA,Senior Photonic Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395476412
