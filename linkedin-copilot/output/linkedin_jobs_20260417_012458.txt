@@ -452,3 +452,4 @@ NVIDIA,Senior ASIC RTL Integration and Netlisting Engineer,"310,500 USD",https:/
 NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479514
 NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395483307
 NVIDIA,Senior ASIC RTL Integration and Netlisting Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395480472
+NVIDIA,Senior Mixed Signal Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395479514
