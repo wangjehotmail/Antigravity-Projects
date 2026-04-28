@@ -181,3 +181,5 @@ NVIDIA,"Senior Math Libraries Engineer, CPU and GPU Optimization","431,250 USD",
 NVIDIA,Senior Firmware Engineer - LPU,"356,500 USD",https://www.linkedin.com/jobs/view/4395469563
 NVIDIA,Principal Technical Product Manager - Autonomous Vehicles,"379,500 USD",https://www.linkedin.com/jobs/view/4395470537
 NVIDIA,"AI Automation Engineer, Security","310,500 USD",https://www.linkedin.com/jobs/view/4406249233
+NVIDIA,"Senior Firmware Engineer, Networking","356,500 USD",https://www.linkedin.com/jobs/view/4406240405
+NVIDIA,Principal Power and Performance Architect,"368,000 USD",https://www.linkedin.com/jobs/view/4395477274
