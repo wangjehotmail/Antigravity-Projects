@@ -144,3 +144,12 @@ Fidelis Companies,Principal Verification Engineer,$450,https://www.linkedin.com/
 Siemens Digital Industries Software,FPGA Senior Product Engineer,Not Found (or not listed),https://www.linkedin.com/jobs/view/4405305989
 Fidelis Companies,Principal Verification Engineer,$450,https://www.linkedin.com/jobs/view/4397287194
 "KIOXIA America, Inc.",Principal Industry Standards Engineer - 2236,"259,030.00",https://www.linkedin.com/jobs/view/4379897163
+OpenAI,"Datacenter Hardware Operations Technician, AI Compute Infrastructure - Stargate",Not Found (or not listed),https://www.linkedin.com/jobs/view/4302910491
+OpenAI,"Software Engineer, Scaled Abuse",Not Found (or not listed),https://www.linkedin.com/jobs/view/4397973812
+OpenAI,"Solutions Engineer, Financial Services",Not Found (or not listed),https://www.linkedin.com/jobs/view/4359850357
+HCLTech,Senior Hardware Design Engineer - High Speed Board Design,Not Found (or not listed),https://www.linkedin.com/jobs/view/4400591410
+Pure Storage,"PCIe Hardware Engineer, Systems","$263,000 USD",https://www.linkedin.com/jobs/view/4391215481
+Fidelis Companies,Principal Verification Engineer,$450,https://www.linkedin.com/jobs/view/4397287194
+Siemens Digital Industries Software,FPGA Senior Product Engineer,Not Found (or not listed),https://www.linkedin.com/jobs/view/4405305989
+Fidelis Companies,Principal Verification Engineer,$450,https://www.linkedin.com/jobs/view/4397287194
+"KIOXIA America, Inc.",Principal Industry Standards Engineer - 2236,"259,030.00",https://www.linkedin.com/jobs/view/4379897163
