@@ -190,3 +190,6 @@ NVIDIA,"Technical Program Manager, AI Factory Infrastructure","322,000 USD",http
 NVIDIA,Principal Cloud Services Software Engineer,"431,250 USD",https://www.linkedin.com/jobs/view/4406246262
 NVIDIA,Senior Post Silicon Feature Development Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395490107
 NVIDIA,Senior CPU Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395482287
+NVIDIA,"AI Automation Engineer, Security","310,500 USD",https://www.linkedin.com/jobs/view/4406242332
+NVIDIA,Senior Systems Prototyping Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395485268
+NVIDIA,Senior Technical Program Manager – LPU Silicon,"322,000 USD",https://www.linkedin.com/jobs/view/4401141214
