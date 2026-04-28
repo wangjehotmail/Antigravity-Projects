@@ -179,3 +179,5 @@ NVIDIA,"Senior Product Manager, AI Frameworks","327,750 USD",https://www.linkedi
 NVIDIA,Principal SoC Power Architect,"431,250 USD",https://www.linkedin.com/jobs/view/4395481534
 NVIDIA,"Senior Math Libraries Engineer, CPU and GPU Optimization","431,250 USD",https://www.linkedin.com/jobs/view/4395475451
 NVIDIA,Senior Firmware Engineer - LPU,"356,500 USD",https://www.linkedin.com/jobs/view/4395469563
+NVIDIA,Principal Technical Product Manager - Autonomous Vehicles,"379,500 USD",https://www.linkedin.com/jobs/view/4395470537
+NVIDIA,"AI Automation Engineer, Security","310,500 USD",https://www.linkedin.com/jobs/view/4406249233
