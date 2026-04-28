@@ -222,3 +222,4 @@ NVIDIA,Senior DFX Infrastructure Engineer,"368,000 USD",https://www.linkedin.com
 NVIDIA,Principal Software Engineering Lead — Enterprise Data Platforms,"391,000 USD",https://www.linkedin.com/jobs/view/4404477802
 NVIDIA,Senior Embedded System Software Engineer - Hypervisor and RTOS,"356,500 USD",https://www.linkedin.com/jobs/view/4395491320
 NVIDIA,"Senior Manager, Business Operations","379,500 USD",https://www.linkedin.com/jobs/view/4395922238
+NVIDIA,Senior Mixed Signal Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4402325618
