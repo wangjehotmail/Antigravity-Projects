@@ -176,3 +176,6 @@ NVIDIA,Senior Technical Marketing Engineer - EDA and Semiconductor,"322,000 USD"
 NVIDIA,"Manager, Software Verification","431,250 USD",https://www.linkedin.com/jobs/view/4395478332
 NVIDIA,Senior SoC Power Analysis Engineer,"356,500 USD",https://www.linkedin.com/jobs/view/4395472493
 NVIDIA,"Senior Product Manager, AI Frameworks","327,750 USD",https://www.linkedin.com/jobs/view/4400013915
+NVIDIA,Principal SoC Power Architect,"431,250 USD",https://www.linkedin.com/jobs/view/4395481534
+NVIDIA,"Senior Math Libraries Engineer, CPU and GPU Optimization","431,250 USD",https://www.linkedin.com/jobs/view/4395475451
+NVIDIA,Senior Firmware Engineer - LPU,"356,500 USD",https://www.linkedin.com/jobs/view/4395469563
