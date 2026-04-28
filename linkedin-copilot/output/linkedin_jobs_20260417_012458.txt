@@ -208,3 +208,4 @@ NVIDIA,Senior System Verification Engineer,"310,500 USD",https://www.linkedin.co
 NVIDIA,Senior Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395487138
 NVIDIA,"Senior Solutions Architect, Generative AI","356,500 USD",https://www.linkedin.com/jobs/view/4406236808
 NVIDIA,Senior Physical Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395469820
+NVIDIA,Lead ATE Test Development Engineer - LPU,"368,000 USD",https://www.linkedin.com/jobs/view/4395483210
