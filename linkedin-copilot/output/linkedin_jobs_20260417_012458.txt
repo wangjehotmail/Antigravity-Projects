@@ -206,3 +206,5 @@ NVIDIA,Senior IO Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs
 NVIDIA,Distinguished Engineer - Dynamo,"488,750 USD",https://www.linkedin.com/jobs/view/4395485483
 NVIDIA,Senior System Verification Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395478258
 NVIDIA,Senior Mixed Signal Design Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395487138
+NVIDIA,"Senior Solutions Architect, Generative AI","356,500 USD",https://www.linkedin.com/jobs/view/4406236808
+NVIDIA,Senior Physical Design Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395469820
