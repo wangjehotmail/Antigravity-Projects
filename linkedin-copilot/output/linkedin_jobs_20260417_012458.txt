@@ -202,3 +202,6 @@ NVIDIA,Senior Technical Program Manager – VLSI,"322,000 USD",https://www.linke
 NVIDIA,Global Commodity Manager – Optics,"322,000 USD",https://www.linkedin.com/jobs/view/4395479249
 NVIDIA,Senior Architecture Energy Modeling Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4398180851
 NVIDIA,Senior Robotics Systems Software Engineer - ROS,"356,500 USD",https://www.linkedin.com/jobs/view/4395478232
+NVIDIA,Senior IO Validation Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395472515
+NVIDIA,Distinguished Engineer - Dynamo,"488,750 USD",https://www.linkedin.com/jobs/view/4395485483
+NVIDIA,Senior System Verification Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395478258
