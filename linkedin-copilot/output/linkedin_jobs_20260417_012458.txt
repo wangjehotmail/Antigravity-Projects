@@ -197,3 +197,4 @@ NVIDIA,Senior Silicon and System Product Lead,"310,500 USD",https://www.linkedin
 NVIDIA,Senior Storage Infrastructure Software Engineer,"356,500 USD",https://www.linkedin.com/jobs/view/4395491319
 NVIDIA,Principal System Software Engineer - Data Center MODS,"431,250 USD",https://www.linkedin.com/jobs/view/4395473674
 NVIDIA,Senior System Design Engineer,"322,000 USD",https://www.linkedin.com/jobs/view/4395476323
+NVIDIA,Senior Solutions Architect - Cluster Design and Architecture,"356,500 USD",https://www.linkedin.com/jobs/view/4395469536
