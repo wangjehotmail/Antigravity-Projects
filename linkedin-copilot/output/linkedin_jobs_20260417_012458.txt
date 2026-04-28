@@ -170,3 +170,4 @@ NVIDIA,Senior PDK Engineer,"310,500 USD",https://www.linkedin.com/jobs/view/4395
 NVIDIA,Principal Software Engineer – Large-Scale LLM Memory and Storage Systems,"431,250 USD",https://www.linkedin.com/jobs/view/4395491334
 NVIDIA,Senior ASIC Design Verification Engineer - LPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395489432
 NVIDIA,Technical Product Lead - Autonomous vehicles,"327,750 USD",https://www.linkedin.com/jobs/view/4395482317
+NVIDIA,Technical Program Manager - AI Labs,"322,000 USD",https://www.linkedin.com/jobs/view/4406258050
