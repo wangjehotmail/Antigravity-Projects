@@ -163,3 +163,5 @@ NVIDIA,Senior Circuit Design Engineer,"264,500 USD",https://www.linkedin.com/job
 NVIDIA,Principal Digital Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4395484499
 NVIDIA,Senior Deep Learning Performance Architect,"356,500 USD",https://www.linkedin.com/jobs/view/4395481506
 NVIDIA,"Senior Software Engineer, Hardware Tools and Methodology Development","264,500 USD",https://www.linkedin.com/jobs/view/4395470563
+NVIDIA,Principal Digital Design Engineer,"368,000 USD",https://www.linkedin.com/jobs/view/4395484499
+NVIDIA,Senior Deep Learning Performance Architect,"356,500 USD",https://www.linkedin.com/jobs/view/4395481506
