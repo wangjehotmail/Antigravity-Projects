@@ -171,3 +171,8 @@ NVIDIA,Principal Software Engineer – Large-Scale LLM Memory and Storage System
 NVIDIA,Senior ASIC Design Verification Engineer - LPU,"310,500 USD",https://www.linkedin.com/jobs/view/4395489432
 NVIDIA,Technical Product Lead - Autonomous vehicles,"327,750 USD",https://www.linkedin.com/jobs/view/4395482317
 NVIDIA,Technical Program Manager - AI Labs,"322,000 USD",https://www.linkedin.com/jobs/view/4406258050
+NVIDIA,"Senior Design Engineer, Coherent High Speed Interconnect","310,500 USD",https://www.linkedin.com/jobs/view/4403676472
+NVIDIA,Senior Technical Marketing Engineer - EDA and Semiconductor,"322,000 USD",https://www.linkedin.com/jobs/view/4405057401
+NVIDIA,"Manager, Software Verification","431,250 USD",https://www.linkedin.com/jobs/view/4395478332
+NVIDIA,Senior SoC Power Analysis Engineer,"356,500 USD",https://www.linkedin.com/jobs/view/4395472493
+NVIDIA,"Senior Product Manager, AI Frameworks","327,750 USD",https://www.linkedin.com/jobs/view/4400013915
